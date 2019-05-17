@@ -1,9 +1,8 @@
-package com.mmall.concurrency.example.syncContainer;
+package com.shengid.concurrency.examples.syncContainer;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.shengid.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Map;
 import java.util.concurrent.CountDownLatch;

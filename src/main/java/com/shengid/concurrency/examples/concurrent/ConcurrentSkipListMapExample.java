@@ -1,10 +1,9 @@
-package com.mmall.concurrency.example.concurrent;
+package com.shengid.concurrency.examples.concurrent;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.shengid.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentSkipListMap;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package com.shengid.concurrency;
+package com.shengid.concurrency.examples.count;
 
 
 import com.shengid.concurrency.annotations.NotThreadSafe;

@@ -1,6 +1,6 @@
-package com.mmall.concurrency.example.commonUnsafe;
+package com.shengid.concurrency.commonUnsafe;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.shengid.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.shengid.concurrency.examples;
+package com.shengid.concurrency;
 
 import com.shengid.concurrency.examples.threadlocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;

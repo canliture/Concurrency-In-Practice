@@ -13,6 +13,6 @@ buildNumber.properties
 /target/
 /*.iml
 
-/Notes.md
+/Notes*.md
 src/main/resources/static/
 src/main/resources/templates/

@@ -1,9 +1,8 @@
-package com.mmall.concurrency.example.concurrent;
+package com.shengid.concurrency.examples.concurrent;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.shengid.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.CountDownLatch;

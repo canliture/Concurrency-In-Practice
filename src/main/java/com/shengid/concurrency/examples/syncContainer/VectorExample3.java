@@ -1,4 +1,4 @@
-package com.mmall.concurrency.example.syncContainer;
+package com.shengid.concurrency.examples.syncContainer;
 
 import java.util.Iterator;
 import java.util.Vector;

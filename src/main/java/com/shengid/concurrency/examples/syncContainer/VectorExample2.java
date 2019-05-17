@@ -1,6 +1,7 @@
-package com.mmall.concurrency.example.syncContainer;
+package com.shengid.concurrency.examples.syncContainer;
 
-import com.mmall.concurrency.annoations.NotThreadSafe;
+
+import com.shengid.concurrency.annotations.NotThreadSafe;
 
 import java.util.Vector;
 
